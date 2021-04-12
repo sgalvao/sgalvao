@@ -4,7 +4,7 @@
 
 ▶ Atualmente tenho 20 anos e moro em Toledo, PR
 
-▶ Amante de tecnologia em geral, desde o hardware ao software, principalmente softwares open-source. Adoro ficar horas vasculhando códigos no mundão da internet e aprendendo novos conteúdos ligados à programação sem sequer perceber as horas passarem.
+▶ Faço uns open-source de ideias que surgem na minha cabeça ¯\_(ツ)_/¯
 
 
 
