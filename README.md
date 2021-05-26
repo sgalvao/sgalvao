@@ -1,10 +1,12 @@
+  
+▶ I am currently working as a fullstack-Pl developer at divisio.tech.<br>
+▶ Acting directly with ReactJS, NodeJS, GraphQL and API Rest
+  
+▶ Self-taught student since he was 15. 
 
+▶ I am currently 21 years old and I live in Toledo, PR, Brazil
 
-▶ Imerso no mundo da tecnologia desde os 15 anos. 
-
-▶ Atualmente tenho 20 anos e moro em Toledo, PR
-
-▶ Faço uns open-source de ideias que surgem na minha cabeça ¯\_(ツ)_/¯
+▶ My hobby is to develop and contribute to Open-source applications ¯\\\_(ツ)\_/¯
 
 
 
@@ -12,7 +14,7 @@
 <br>
 <details open>
 <summary>
-  <strong>⚙ Tecnologias</strong>
+  <strong>⚙ Technologies</strong>
 </summary>
 <br>
 
@@ -26,7 +28,7 @@
 
 <details open>
 <summary>
-  <strong>🛠 Ferramentas</strong>
+  <strong>🛠 Tools</strong>
 </summary>
 <br>
 
