@@ -16,8 +16,8 @@
 </summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
+![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
 ![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
@@ -37,16 +37,7 @@
 
 </details>
 
-<details open>
-<summary>
-  <strong>📝 Estou estudando </strong>
-</summary>
-<br>
 
-![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
-![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
-
-</details>
 
 <hr/>
 <div align="center">
