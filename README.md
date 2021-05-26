@@ -1,5 +1,5 @@
   
-▶ I am currently working as a fullstack-Pl developer at divisio.tech.<br>
+▶ I am currently working as a fullstack-Pl developer at <strong>Divisio</strong>.<br>
 ▶ Acting directly with ReactJS, NodeJS, GraphQL and API Rest
   
 ▶ Self-taught student since he was 15. 
