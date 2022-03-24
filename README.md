@@ -2,9 +2,7 @@
 ▶ I am currently working as a fullstack-Pl developer at <strong>Divisio</strong>.<br>
 ▶ Acting directly with ReactJS, NodeJS, GraphQL and API Rest
   
-▶ Self-taught student since he was 15. 
-
-▶ I am currently 21 years old and I live in Toledo, PR, Brazil
+▶ Self-taught student since he was 2013. 
 
 ▶ My hobby is to develop and contribute to Open-source applications ¯\\\_(ツ)\_/¯
 
