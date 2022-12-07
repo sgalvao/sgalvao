@@ -1,9 +1,6 @@
   
 ▶ I am currently working as a Web3 developer at <strong>Nftfy</strong>.<br>
 ▶ Acting directly with ReactJS, NodeJS, GraphQL and API Rest
-  
-▶ Self-taught student since he was 2013. 
-
 ▶ My hobby is to develop and contribute to Open-source applications ¯\\\_(ツ)\_/¯
 
 
