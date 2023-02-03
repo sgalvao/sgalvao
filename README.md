@@ -35,8 +35,6 @@ As a technology-loving software developer with over 4 years of experience, I hav
 <hr/>
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/silvio-galv%C3%A3o-4182bb1b7/)
-[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/sgabriel1503/)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/silvio-galvao-4182bb1b7/)
 
 </div>
