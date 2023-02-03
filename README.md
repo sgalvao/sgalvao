@@ -1,8 +1,4 @@
-  
-▶ I am currently working as a Web3 developer at <strong>Nftfy</strong>.<br>
-▶ Acting directly with ReactJS, NodeJS, GraphQL and API Rest
-▶ My hobby is to develop and contribute to Open-source applications ¯\\\_(ツ)\_/¯
-
+As a technology-loving software developer with over 4 years of experience, I have a unique ability to create innovative and scalable software solutions. My expertise includes ReactJs, NodeJs, GraphQL, Rust, and blockchain technologies such as Solidity, Web3Js, EVM, ERC-721, ERC-20, and ERC-1155. I have worked in various sectors, including fintechs, insurtechs and startups, where I have had the opportunity to develop my skills and knowledge. My current focus is on web3 development and I am always looking for new challenges and opportunities to continue growing in my career. Connect with me to know more about my skills, experience and how I can contribute to your organization
 
 
 
