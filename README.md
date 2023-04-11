@@ -25,6 +25,7 @@ As a technology-loving software developer with over 4 years of experience, I hav
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
@@ -38,7 +39,6 @@ As a technology-loving software developer with over 4 years of experience, I hav
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
@@ -54,6 +54,11 @@ As a technology-loving software developer with over 4 years of experience, I hav
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?logo=strapi&logoColor=white)
+  
+  ## BLOCKCHAIN SKILLS 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+  
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
